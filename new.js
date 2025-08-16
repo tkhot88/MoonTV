@@ -1,42 +1,42 @@
-    "1080zyku: {
-      "name": "TV-1080资源",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "detail": "https://api.1080zyku.com"
-    },
-    "360zy: {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "TV-360资源",
-      "detail": "https://360zy.com"
-    },
-    "ckzy: {
-      "name": "TV-CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me"
-    },
-    "ukuapi: {
-      "name": "TV-U酷资源",
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi.com"
-    },
-    "ukuapi88: {
-      "name": "TV-U酷资源",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi88.com"
-    },
-    "ikunzyapi: {
-      "name": "TV-ikun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "detail": "https://ikunzyapi.com"
-    },
-    "wujinapi: {
-      "name": "TV-wujinapi无尽",
-      "api": "https://api.wujinapi.cc/api.php/provide/vod"
-    },
-    "yayazy: {
-      "name": "TV-丫丫点播",
-      "api": "https://api.wujinapi.cc/api.php/provide/vod",
-      "detail": "https://cj.yayazy.net"
-    },
+	"1080zyku: {
+		"api": "https://api.1080zyku.com/inc/api_mac10.php",
+		"name": "TV-1080资源",
+		"detail": "https://api.1080zyku.com"
+	},
+	"360zy: {
+		"api": "https://360zy.com/api.php/provide/vod",
+		"name": "TV-360资源",
+		"detail": "https://360zy.com"
+	},
+	"ckzy: {
+		"api": "https://ckzy.me/api.php/provide/vod",
+		"name": "TV-CK资源",
+		"detail": "https://ckzy.me"
+	},
+	"ukuapi: {
+		"api": "https://api.ukuapi.com/api.php/provide/vod",
+		"name": "TV-U酷资源",
+		"detail": "https://api.ukuapi.com"
+	},
+	"ukuapi88: {
+		"api": "https://api.ukuapi88.com/api.php/provide/vod",
+		"name": "TV-U酷资源",
+		"detail": "https://api.ukuapi88.com"
+	},
+	"ikunzyapi: {
+		"api": "https://ikunzyapi.com/api.php/provide/vod",
+		"name": "TV-ikun资源",
+		"detail": "https://ikunzyapi.com"
+	},
+	"wujinapi: {
+		"name": "TV-wujinapi无尽",
+		"api": "https://api.wujinapi.cc/api.php/provide/vod"
+	},
+	"yayazy: {
+		"name": "TV-丫丫点播",
+		"api": "https://api.wujinapi.cc/api.php/provide/vod",
+		"detail": "https://cj.yayazy.net"
+	},
     "guangsuapi: {
       "name": "TV-光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
