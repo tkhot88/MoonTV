@@ -93,7 +93,7 @@
       "detail": "http://zuidazy.me"
     },
       "zuida: {
-      "api": "https://zuidazy.com/api.php/provide/vod/",
+      "api": "https://zuidazy.com/api.php/provide/vod",
       "name": "最大资源"
     },
     "zuidapi: {
